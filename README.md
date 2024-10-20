@@ -44,14 +44,6 @@ Patient Booking App: A mobile app built with React Native for patients to book d
 
 Delivery and Vendor Management App: A mobile platform for managing vendors and delivery services, built using React Native. It streamlines vendor registration, order management, and delivery tracking, enabling efficient coordination between vendors, customers, and delivery personnel. Key features include real-time order updates, payment integration, and delivery status notifications.
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cashy-tech&show_icons=true&hide_border=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cashy-tech&layout=compact&hide_border=true&theme=default"/>
-</p>
-
----
 
 ### 🌱 Current Focus & Learning Goals
 
