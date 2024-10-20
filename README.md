@@ -38,13 +38,11 @@ I am a dedicated full-stack software developer with a strong background in build
 
 ### 🚀 Featured Projects
 
-- **[Project Name 1]**: A fully responsive e-commerce platform built with **Laravel** and **React**. Features include a powerful admin panel, product management, and secure payment integration.
-  
-- **[Project Name 2]**: A cross-platform mobile app developed using **React Native**, focused on habit tracking with real-time notifications, user authentication, and data syncing via Firebase.
+Doctor Consultation App: A cross-platform mobile app developed using React Native, designed for doctor-patient consultations. Key features include real-time notifications for booking appointments, online/offline status tracking, video calls, and document approval status. The app is integrated with a PHP backend, secure payment processing, and scheduling options for consultations.
 
-- **[Project Name 3]**: A comprehensive procurement management system leveraging **Laravel** and **React**, streamlining workflows for bids, approvals, and purchase orders.
+Patient Booking App: A mobile app built with React Native for patients to book doctor appointments. It includes features such as time selection for consultations, secure payments, and real-time messaging. Patients can schedule appointments and communicate with doctors by initiating immediate video calls.
 
----
+Delivery and Vendor Management App: A mobile platform for managing vendors and delivery services, built using React Native. It streamlines vendor registration, order management, and delivery tracking, enabling efficient coordination between vendors, customers, and delivery personnel. Key features include real-time order updates, payment integration, and delivery status notifications.
 
 ### 📊 GitHub Stats
 
