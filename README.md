@@ -24,7 +24,7 @@ I am a dedicated full-stack software developer with a strong background in build
 🗄️ MySQL, PostgreSQL, MongoDB
 
 **📱Mobile Development**  
-📱React Native  
+📱 React Native  
 📐 Mobile-First Design & Responsive Layouts
 🔌 Native Modules & Integrations
 
