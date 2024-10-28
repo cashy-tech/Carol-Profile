@@ -12,10 +12,10 @@ I am a dedicated full-stack software developer with a strong background in build
 ### 💻 Core Competencies & Tech Stack
 
 **✨Frontend Development**  
--⚛️ React.js, React Native
--🟨 TypeScript, JavaScript (ES6+)
--🌐 HTML5, CSS3, SASS, Tailwind CSS
--🧩 Next.js, Redux, Styled Components 
+⚛️ React.js, React Native
+🟨 TypeScript, JavaScript (ES6+)
+🌐 HTML5, CSS3, SASS, Tailwind CSS
+🧩 Next.js, Redux, Styled Components 
 
 **🖥️Backend Development**  
 🐘 Laravel, PHP
