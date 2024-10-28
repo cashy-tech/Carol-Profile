@@ -6,7 +6,7 @@
 
 ---
 
-I'm a passionate full-stack developer with expertise in building dynamic, scalable applications. I work with **Laravel** for backends and **React/React Native** for frontends, crafting clean, maintainable code to deliver high-quality software solutions for web and mobile.
+I am a dedicated full-stack software developer with a strong background in building dynamic and scalable applications using **Laravel** on the backend and **React/React Native** on the frontend. With a passion for crafting clean, maintainable code and delivering high-quality software solutions, I continuously strive to push the boundaries of web and mobile development.
 
 ---
 
@@ -63,7 +63,6 @@ A mobile platform for managing vendors and delivery services. Developed with **R
 
 📧 **Email**: [carohndunge@gmail.com](mailto:carohndunge@gmail.com)  
 🔗 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/carol-n-432a14149/)  
-🐙 **GitHub**: [github.com/cashy-tech](https://github.com/cashy-tech)  
 
 ---
 
