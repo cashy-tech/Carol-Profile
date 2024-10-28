@@ -9,7 +9,7 @@ I am a dedicated full-stack software developer with a strong background in build
 
 ---
 
-### 🛠 Core Competencies & Tech Stack
+### Core Competencies & Tech Stack
 
 **Frontend Development**  
 - React.js, React Native  
